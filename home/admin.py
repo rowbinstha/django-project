@@ -6,4 +6,5 @@ from .models import *
 admin.site.register(Contact)
 admin.site.register(ContactInformation)
 admin.site.register(Services)
-admin.site.register(Feedback) 
+admin.site.register(Feedback)
+admin.site.register(Blog)
